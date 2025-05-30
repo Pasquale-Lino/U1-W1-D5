@@ -103,6 +103,7 @@ margin-top: 200px;
     border-radius: 5%;
     border: none;
     background-color: #f04c2f ; 
+    cursor: pointer;
 }
 #cit {
     background-color: #f04c2f;
